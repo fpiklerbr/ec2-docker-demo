@@ -18,3 +18,4 @@ selenium==4.16.0
 beautifulsoup4==4.12.2
 requests==2.31.0
 apache-airflow-providers-amazon==8.13.0
+Faker==21.0.0
